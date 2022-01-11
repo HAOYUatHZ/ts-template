@@ -1,2 +1,0 @@
-# minft.ts
-NFT minter
